@@ -8,3 +8,5 @@ I completed this project to better my understanding of Java Script. I built this
 You can generate random passwords by clicking the button and selecting the critera that you want in your password.
 
 ![This is a photo of my password generation website.](./passwordGen.PNG)
+
+Link to webpage: (https://foundeven.github.io/weekThreeChallenge_PasswordGenerator/)
